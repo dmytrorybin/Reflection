@@ -1,4 +1,4 @@
-package ua.epam;
+package ua.app;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;

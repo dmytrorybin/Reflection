@@ -1,4 +1,4 @@
-package ua.epam;
+﻿package ua.app;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
